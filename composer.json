@@ -17,7 +17,7 @@
     ],
     "repositories": [
         {
-            "type": "git",
+            "type": "vcs",
             "url": "https://github.com/Spotawheel/currency"
         }
     ],
@@ -51,6 +51,6 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
