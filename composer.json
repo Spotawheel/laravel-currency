@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "amrshawky/currency": "dev-master",
+        "amrshawky/currency": "^2.0",
         "php": ">=7.2",
         "guzzlehttp/guzzle": ">=6.0",
         "ext-json": "*",
